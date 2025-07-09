@@ -1,4 +1,3 @@
-# generate_fake_country.py
 import numpy as np
 import matplotlib.pyplot as plt
 from shapely.geometry import Polygon
